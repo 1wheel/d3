@@ -455,3 +455,5 @@ export {
   geoStream,
   geoTransform
 } from "d3-geo";
+
+import "d3-selection-multi";
