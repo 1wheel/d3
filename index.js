@@ -457,3 +457,14 @@ export {
 } from "d3-geo";
 
 import "d3-selection-multi";
+import "d3-jetpack-module";
+
+export {
+  wordwrap,
+  parseAttributes,
+  f,
+  ascendingKey,
+  descendingKey,
+  conventions,
+  attachTooltip,
+} from "d3-jetpack-module";
